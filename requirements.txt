@@ -1,0 +1,6 @@
+torch==2.0.0 # PyTorch library for deep learning
+numpy==1.23.5 # Numerical computing library
+pandas==1.5.3 # Data manipulation library
+seaborn==0.12.2 # Data visualization library
+scikit-learn==1.2.2 # Machine learning library
+imbalanced-learn==0.10.1 # Library for handling imbalanced datasets
